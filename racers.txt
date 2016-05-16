@@ -1,0 +1,6 @@
+firstName, lastName, carType, score
+Kevin, Hart, Dirt Bike, 0
+Ted, Mosby, Prius, 0
+Kobe, Bryant, Ferrari, 0
+Leo, Messi, ATV, 0
+Hope, Solo, Porsche, 0
